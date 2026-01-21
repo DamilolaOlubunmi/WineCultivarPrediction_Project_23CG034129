@@ -1,0 +1,6 @@
+Name: Olubunmi Damilola
+Matric Number: 23CG034129
+Machine Learning Algorithm Used: Support Vector Machine (SVM)
+Model Persistence Method: Joblib
+Live URL: https://your-app-link-here
+GitHub Repository: https://github.com/yourusername/WineCultivar_Project
